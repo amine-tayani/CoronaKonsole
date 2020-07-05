@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85749eec-8875-492b-b908-73b594c1944d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eEMFH1ICSOgKs8QIm6eCei0ppn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/gson-2.8.0.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CovidApiTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="api.CovidApiTest" />
+      <module name="ApiTestJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CovidApiTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85749eec-8875-492b-b908-73b594c1944d" name="Default Changelist" comment="" />
+      <created>1593882193740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593882193740</updated>
+      <workItem from="1593882201228" duration="1532000" />
+      <workItem from="1593884812991" duration="5663000" />
+      <workItem from="1593983787569" duration="8123000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593882248663">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1593882248663" />
+    <state x="605" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1593987048266">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1593987048266" />
+    <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593986274850">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1593986274850" />
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1593890161800">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1593890161800" />
+    <state width="737" height="694" key="GridCell.Tab.0.bottom" timestamp="1593992930897">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="737" height="694" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1593992930897" />
+    <state width="737" height="694" key="GridCell.Tab.0.center" timestamp="1593992930897">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="737" height="694" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1593992930897" />
+    <state width="737" height="694" key="GridCell.Tab.0.left" timestamp="1593992930896">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="737" height="694" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1593992930896" />
+    <state width="737" height="694" key="GridCell.Tab.0.right" timestamp="1593992930897">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="737" height="694" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1593992930897" />
+    <state width="778" height="252" key="GridCell.Tab.1.bottom" timestamp="1593987995201">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="778" height="252" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1593987995201" />
+    <state width="778" height="252" key="GridCell.Tab.1.center" timestamp="1593987995201">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="778" height="252" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1593987995201" />
+    <state width="778" height="252" key="GridCell.Tab.1.left" timestamp="1593987995201">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="778" height="252" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1593987995201" />
+    <state width="778" height="252" key="GridCell.Tab.1.right" timestamp="1593987995201">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="778" height="252" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1593987995201" />
+    <state x="280" y="4" key="SettingsEditor" timestamp="1593890168262">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="280" y="4" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1593890168262" />
+    <state x="468" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1593984184411">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="468" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1593984184411" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1593991216704">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1593991216704" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1593985039042">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1593985039042" />
+  </component>
+</project>
